@@ -1,0 +1,28 @@
+name: xiaowang
+favicon: null
+layout_spectrum: 0.35393
+typography_spectrum: 0.49809
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#f3ebe0'
+    - '#0c0000'
+    - '#622c00'
+    - '#cb280c'
+    - '#d38a3a'
+  brandStrength: 1
+  lightness: 0.6875
+  saturation: 1
+  rhythmicContrast: 0.891952776350081
+purpose: []
