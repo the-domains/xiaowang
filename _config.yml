@@ -1,7 +1,7 @@
 name: xiaowang
 favicon: null
-layout_spectrum: 0.35393
-typography_spectrum: 0.49809
+layout_spectrum: 0.03418312733992934
+typography_spectrum: 0.6349806191865355
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#f3ebe0'
-    - '#0c0000'
-    - '#622c00'
-    - '#cb280c'
-    - '#d38a3a'
-  brandStrength: 1
-  lightness: 0.6875
-  saturation: 1
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.985322950175032
+  lightness: 0.9484878352377564
+  saturation: 0.9654007537756115
   rhythmicContrast: 0.891952776350081
 purpose: []
